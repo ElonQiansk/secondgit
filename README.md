@@ -1,2 +1,4 @@
 # secondgit
-this repository is only for studying
+this repository is a branch for this project
+yes branch
+yes branch
